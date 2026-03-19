@@ -1,0 +1,77 @@
+{
+  "hook": {
+    "id": 12345,
+    "name": "Slack Notifications",
+    "event": "linked_in_messenger.campaign_replied",
+    "li_account": 100000,
+    "fired_datetime": "2026-03-17 17:29:48.635563+00:00",
+    "li_account_name": "Test User"
+  },
+  "contact": {
+    "id": 28551940,
+    "tags": [],
+    "email": null,
+    "phone": null,
+    "address": null,
+    "company": {
+      "name": "Exclaimer",
+      "website": "https://exclaimer.com/",
+      "location": "Farnborough, GB",
+      "industries": "['Information Technology & Services', 'Computer Software']",
+      "universal_name": "exclaimer",
+      "employee_count_end": 500,
+      "employee_count_start": 201
+    },
+    "job_title": "Commercial Sales Executive at Exclaimer",
+    "last_name": "Donohoe",
+    "first_name": "Darren",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4E03AQGswAqnYba7gQ/profile-displayphoto-shrink_100_100/0/1727902185453",
+    "object_urn": 94838147,
+    "company_name": "Exclaimer",
+    "profile_link": "https://www.linkedin.com/in/darren-donohoe-22b91727/",
+    "follower_count": 2845,
+    "sales_nav_link": "https://www.linkedin.com/sales/lead/ACwAAAWnHYMBUDycTDC6PAovzJ81Lc3b15TCHi8,NAME_SEARCH,Ynfc",
+    "sales_nav_tags": [],
+    "public_identifier": "darren-donohoe-22b91727",
+    "entity_fs_sales_profile": "ACwAAAWnHYMBUDycTDC6PAovzJ81Lc3b15TCHi8",
+    "profile_link_public_identifier": "https://www.linkedin.com/in/darren-donohoe-22b91727/"
+  },
+  "messenger": {
+    "id": 1317337589,
+    "note": null,
+    "thread": "https://www.linkedin.com/messaging/thread/2-YmIzNWY0YWMtZjM4MS00ZjdhLWEyMzQtZWI5ZmMwMGQzNjNmXzEwMA==/",
+    "message": "Calls are always king but it helps if an email goes out first, its always handy if you know the person on linked in too",
+    "invited_at": "2026-03-10 21:02:21.466019+00:00",
+    "li_account": 100000,
+    "nr_of_steps": 9,
+    "connected_at": "2026-03-16 15:41:17.906884+00:00",
+    "new_messages": true,
+    "placeholders": {
+      "first_name": "Darren",
+      "imported_profile_link": "https://www.linkedin.com/in/darren-donohoe-22b91727/"
+    },
+    "contact_status": "New Contact",
+    "lead_inbox_link": "https://app.expandi.io/inbox?search=Darren%20Donohoe&nr=1317337589&li_account_id=100000",
+    "campaign_instance": "ABM | Email vs LinkedIn Research",
+    "last_sent_message": "doing a bit of research on the side trying to figure out whether outbound teams are getting better responses from email or LinkedIn these days. which is working better for you guys right now?",
+    "conversation_status": "Replied",
+    "last_post_liked_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7435288343854174209/",
+    "last_received_message": "Calls are always king but it helps if an email goes out first, its always handy if you know the person on linked in too",
+    "last_received_messages": [
+      "Calls are always king but it helps if an email goes out first, its always handy if you know the person on linked in too"
+    ],
+    "last_sent_message_datetime": "2026-03-17 13:43:56.399654+00:00",
+    "last_received_message_datetime": "2026-03-17 15:51:38.769000+00:00"
+  },
+  "campaign_instance_contact": {
+    "id": 454772406,
+    "status": 3,
+    "actions": {
+      "pause": "https://api.example.com/api/v1/open-api/campaign-contact/454772406/pause/?key=example-key&secret=example-secret",
+      "resume": "https://api.example.com/api/v1/open-api/campaign-contact/454772406/resume/?key=example-key&secret=example-secret"
+    },
+    "created": "2026-02-26 15:35:56.304246+00:00",
+    "first_reply_datetime": "2026-03-16 17:04:35.589000+00:00",
+    "nr_steps_before_responding": 14
+  }
+}

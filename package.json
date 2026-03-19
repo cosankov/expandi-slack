@@ -1,0 +1,9 @@
+{
+  "name": "expandi-slack",
+  "version": "1.0.0",
+  "description": "Expandi webhook → Slack notification relay",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
